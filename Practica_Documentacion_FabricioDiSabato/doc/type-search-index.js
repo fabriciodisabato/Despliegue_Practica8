@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Examen","l":"AppOrdenadores"},{"p":"Examen","l":"Ordenadores"},{"p":"Examen","l":"Portatiles"},{"p":"Examen","l":"Sobremesa"}];updateSearchResults();
